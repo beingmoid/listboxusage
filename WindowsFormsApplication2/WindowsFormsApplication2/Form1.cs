@@ -80,13 +80,21 @@ namespace WindowsFormsApplication2
 
         private void button3_Click(object sender, EventArgs e)
         {
-            int[] arr2 = new int[listBox1.Items.Count];
+            int[] arr2 = new int[listBox1.Items.Count   ];
             for (int i = 0; i < arr2.Length; i++)
             {
                 arr2[i] = int.Parse(listBox1.Items[i].ToString());
             }
             label2.Text = arr2.Sum().ToString();
             label2.Show();
+            if (arr2.Sum() > 20)
+            {
+                listBox1.BackColor = Color.Green;
+            }
+            else
+            {
+                listBox1.BackColor = Color.Red;
+            }
            
         }
 
@@ -99,6 +107,14 @@ namespace WindowsFormsApplication2
             }
             label5.Text = arr3.Sum().ToString();
             label5.Show();
+            if (arr3.Sum()>20)
+            {
+                listBox2.BackColor = Color.Green;
+            }
+            else
+            {
+                listBox2.BackColor = Color.Red;
+            }
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -110,6 +126,14 @@ namespace WindowsFormsApplication2
             }
             label4.Text = arr4.Sum().ToString();
             label4.Show();
+            if (arr4.Sum() > 20)
+            {
+                listBox3.BackColor = Color.Green;
+            }
+            else
+            {
+                listBox3.BackColor = Color.Red;
+            }
         }
         }
        }
