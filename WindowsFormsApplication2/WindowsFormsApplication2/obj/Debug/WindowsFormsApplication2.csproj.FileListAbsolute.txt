@@ -1,0 +1,8 @@
+C:\Users\glab\Desktop\Usman (59148)\Q2_wcf\Q2_wcf\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\glab\Desktop\Usman (59148)\Q2_wcf\Q2_wcf\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\glab\Desktop\Usman (59148)\Q2_wcf\Q2_wcf\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\glab\Desktop\Usman (59148)\Q2_wcf\Q2_wcf\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\glab\Desktop\Usman (59148)\Q2_wcf\Q2_wcf\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\glab\Desktop\Usman (59148)\Q2_wcf\Q2_wcf\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\glab\Desktop\Usman (59148)\Q2_wcf\Q2_wcf\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\glab\Desktop\Usman (59148)\Q2_wcf\Q2_wcf\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
