@@ -1,0 +1,8 @@
+C:\Users\glab\Desktop\OOP_LAB_2\OOP_LAB_2\bin\Debug\OOP_LAB_2.exe
+C:\Users\glab\Desktop\OOP_LAB_2\OOP_LAB_2\bin\Debug\OOP_LAB_2.pdb
+C:\Users\glab\Desktop\OOP_LAB_2\OOP_LAB_2\obj\Debug\OOP_LAB_2.csprojResolveAssemblyReference.cache
+C:\Users\glab\Desktop\OOP_LAB_2\OOP_LAB_2\obj\Debug\OOP_LAB_2.Form1.resources
+C:\Users\glab\Desktop\OOP_LAB_2\OOP_LAB_2\obj\Debug\OOP_LAB_2.Properties.Resources.resources
+C:\Users\glab\Desktop\OOP_LAB_2\OOP_LAB_2\obj\Debug\OOP_LAB_2.csproj.GenerateResource.Cache
+C:\Users\glab\Desktop\OOP_LAB_2\OOP_LAB_2\obj\Debug\OOP_LAB_2.exe
+C:\Users\glab\Desktop\OOP_LAB_2\OOP_LAB_2\obj\Debug\OOP_LAB_2.pdb
